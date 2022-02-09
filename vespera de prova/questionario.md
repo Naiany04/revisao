@@ -16,5 +16,8 @@ Sotware de controle de versão.
 6 - O que é branch?
 Ramificação dos repositórios.
 
+7 - O que é Pull request?
+É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório, de forma que facilite ser revisado e/ou discutido entre todos os membros do grupo.
+
 
 
