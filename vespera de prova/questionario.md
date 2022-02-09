@@ -7,5 +7,8 @@ R: Não há restrição de linguagem, ou seja, recebe todas as linguagens.
 3 - O que é um repositório?
 R: é uma pasta onde será colocado os arquivos do projeto.
 
+4 - Os códigos que colocam no GitHub estarão sempre disponíveis a todos os usuários da Web?
+R: Se estiverem públicos sim, estarão disponíveis aos usuários.
+
 
 
