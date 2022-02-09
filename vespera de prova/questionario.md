@@ -10,8 +10,11 @@ R: é uma pasta onde será colocado os arquivos do projeto.
 4 - Os códigos que colocam no GitHub estarão sempre disponíveis a todos os usuários da Web?
 R: Se estiverem públicos sim, estarão disponíveis aos outros usuários.
 
-5- O que é VCS?
+5 - O que é VCS?
 Sotware de controle de versão.
+
+6 - O que é branch?
+R: Ramificação dos repositórios.
 
 
 
