@@ -22,3 +22,6 @@ Ramificação dos repositórios.
 8 - O que é Fork?
 Fork é semelhante ao clonar, copia um repositório de outro perfil para o seu.
 
+9 - O que é clone?
+O clone faz uma cópia do repositório remoto para o repositório local.
+
